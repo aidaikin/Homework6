@@ -19,5 +19,6 @@ public class Main {
         System.out.println(num6 >= num6);
         System.out.println(num5 == 2);
         System.out.println(num6 <= num2);
+        System.out.println(num5 == num7);
     }
 }
