@@ -14,12 +14,14 @@ public class Main2 {
             System.out.println(num6);
 
             int num7 = num6 / 2;
+            int remainder = num6 % 2;
             System.out.println(num7);
             System.out.println(num7 >= num6);
             System.out.println(num6 >= num6);
             System.out.println(num5 == 2);
             System.out.println(num6 <= num2);
             System.out.println(num5 == num7);
+            System.out.println(remainder);
         }
     }
 
